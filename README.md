@@ -75,7 +75,7 @@ Exp5C.ipynb
 ## Author
 
 **DHARSHINI V(24CS0207)**  
-B.E. Computer Science and Engineering(3rd Year, 5th Sem)  
+B.E. CSE - D (3rd Year, 5th Sem)  
 Chennai Institute of Technology (CIT), Chennai
 
 ---
